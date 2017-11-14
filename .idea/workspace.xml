@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5edab67c-22e0-48e1-9110-83f1a718be25" name="Default" comment="" />
+    <ignored path="learning-to-read-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="learning-to-read-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="provider256.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imcnn/provider256.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="74" column="58" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="58" />
+              <folding>
+                <element signature="e#4184#4342#1" expanded="false" />
+                <element signature="n#Provider:normalize#0" expanded="false" />
+                <element signature="e#6985#7102#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train256.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imcnn/train256.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="90" column="98" selection-start-line="90" selection-start-column="91" selection-end-line="90" selection-end-column="98" />
+              <folding>
+                <element signature="n#read_num_lines#0" expanded="false" />
+                <element signature="e#2363#2442#0" expanded="false" />
+                <element signature="e#2446#2762#0" expanded="false" />
+                <element signature="e#11237#11608#1" expanded="false" />
+                <element signature="n#test#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preprocess.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/src/preprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="0" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="43" />
+              <folding>
+                <element signature="e#3494#3551#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="openi.mesh.top" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh.top">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build_labels.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build_labels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="img_to_crop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/src/img_to_crop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="openi.mesh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svmTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Development/isArticle/svmTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+              <folding>
+                <element signature="e#1163#1197#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/chestx/generate_data.ipynb" />
+        <option value="$PROJECT_DIR$/imcnn/models/nin.lua" />
+        <option value="$PROJECT_DIR$/txtrnn/util/CharSplitLMMinibatchLoader.lua" />
+        <option value="$PROJECT_DIR$/txtrnn/train.lua" />
+        <option value="$PROJECT_DIR$/txtrnn/sample.lua" />
+        <option value="$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua" />
+        <option value="$PROJECT_DIR$/txtrnn/util/improvider.lua" />
+        <option value="$PROJECT_DIR$/txtrnn/cnn_test.lua" />
+        <option value="$USER_HOME$/Development/build_archive_dataset.py" />
+        <option value="$USER_HOME$/Development/nytimes_comments.py" />
+        <option value="$USER_HOME$/Development/video-suggestions/video_test_report.py" />
+        <option value="$PROJECT_DIR$/data/chestx/MeSH/src/img_to_crop.py" />
+        <option value="$PROJECT_DIR$/src/chestx/ dataset_test" />
+        <option value="$USER_HOME$/Downloads/video_test_report.py" />
+        <option value="$PROJECT_DIR$/src/chestx/elik_test.py" />
+        <option value="$PROJECT_DIR$/imcnn/provider256.lua" />
+        <option value="$PROJECT_DIR$/crop_images.py" />
+        <option value="$PROJECT_DIR$/src/chestx/main.ipynb" />
+        <option value="$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh.top" />
+        <option value="$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh" />
+        <option value="$PROJECT_DIR$/build_labels.py" />
+        <option value="$PROJECT_DIR$/imcnn/train256.lua" />
+        <option value="$PROJECT_DIR$/c2s.py" />
+        <option value="$USER_HOME$/Development/isArticle/svmTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-read-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-read-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-read-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Development/isArticle/svmTest.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/txtrnn/util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chestx" />
+      <recent name="$PROJECT_DIR$/txtrnn/cv/iter0" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.svmTest">
+    <configuration default="false" name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/chestx/MeSH/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/chestx/MeSH/src/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="elik_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/chestx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/chestx/elik_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="build_labels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_labels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="c2s" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c2s.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="svmTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Development/isArticle" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Development/isArticle/svmTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="&quot;-lqttorch&quot; &quot;-lenv&quot;" />
+      <option name="INTERPRETER_PATH" value="/User/elik/torch/install/bin/qlua" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <method />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="Docker Deployment">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-read-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.preprocess" />
+      <item index="1" class="java.lang.String" itemvalue="Python.elik_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.build_labels" />
+      <item index="3" class="java.lang.String" itemvalue="Python.c2s" />
+      <item index="4" class="java.lang.String" itemvalue="Python.svmTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.svmTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.c2s" />
+        <item index="2" class="java.lang.String" itemvalue="Python.elik_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.preprocess" />
+        <item index="4" class="java.lang.String" itemvalue="Python.build_labels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5edab67c-22e0-48e1-9110-83f1a718be25" name="Default" comment="" />
+      <created>1474011584982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474011584982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18168813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44096386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33975902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35180724" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/elik_test.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/elik_test.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/elik_test.py</url>
+          <line>375</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/elik_test.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/ dataset_test</url>
+          <line>51</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/ dataset_test</url>
+          <line>46</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/ dataset_test</url>
+          <line>47</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/ dataset_test</url>
+          <line>32</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/ dataset_test</url>
+          <line>28</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/elik_test.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/chestx/elik_test.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/build_archive_dataset.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/build_archive_dataset.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/nytimes_comments.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/nytimes_comments.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/video-suggestions/video_test_report.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/video-suggestions/video_test_report.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Downloads/video_test_report.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/isArticle/svmTest.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/isArticle/svmTest.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Development/isArticle/svmTest.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/imcnn/train256.lua</url>
+          <line>133</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/train.lua</url>
+          <line>230</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/util/CharSplitLMMinibatchLoader.lua</url>
+          <line>14</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/train.lua</url>
+          <line>134</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample.lua</url>
+          <line>197</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua</url>
+          <line>165</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua</url>
+          <line>161</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua</url>
+          <line>220</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua</url>
+          <line>98</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua</url>
+          <line>99</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/sample_for_next_iter.lua</url>
+          <line>63</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/txtrnn/cnn_test.lua</url>
+          <line>72</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/imcnn/train256.lua</url>
+          <line>34</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/imcnn/train256.lua</url>
+          <line>275</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="186" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.sylvanaar.idea.Lua.run.LuaConfigurationType">
+        <watch expression="opt" language="Lua" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_imcaps_trval/epoch2/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_im_te.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_im_tr_sp.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="779" column="20" selection-start-line="779" selection-start-column="0" selection-end-line="779" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_im_val.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_imcaps_trval_all_disease_only.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_im_tr_saa0.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_caps_only.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_imcaps_trval/epoch1/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pymongo/monitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pymongo/periodic_executor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pymongo/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Development/nytimes_comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Development/video-suggestions/video_test_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/label_names.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/processed/openi.mesh.top.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Development/build_archive_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#43#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/video_test_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pandas/core/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="949" column="8" selection-start-line="949" selection-start-column="8" selection-end-line="949" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="568" column="0" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="3723" column="8" selection-start-line="3723" selection-start-column="8" selection-end-line="3723" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/data/iter0_im_tr_sa.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54615">
+          <caret line="3641" column="20" selection-start-line="3641" selection-start-column="0" selection-end-line="3641" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/Csv.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/pretrained/untitled text 2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/models/nin_bn_nodropout.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="0" column="57" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/models/googlenet_bn.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crop_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/ dataset_test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/models/nin_bn.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh.overlap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/src/wordfreq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/140606734/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="2764" column="8" selection-start-line="2764" selection-start-column="8" selection-end-line="2764" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh.new" />
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh.top.new" />
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/processed/openi.mesh.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="3713" column="0" selection-start-line="3713" selection-start-column="0" selection-end-line="3713" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtrnn/util/OneHot.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtrnn/util/improvider.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/elik_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7635">
+          <caret line="514" column="4" selection-start-line="514" selection-start-column="4" selection-end-line="514" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chestx/main.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/models/nin.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/provider256.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="58" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="58" />
+          <folding>
+            <element signature="e#4184#4342#1" expanded="false" />
+            <element signature="n#Provider:normalize#0" expanded="false" />
+            <element signature="e#6985#7102#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1777">
+          <caret line="393" column="0" selection-start-line="393" selection-start-column="0" selection-end-line="393" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="375" column="0" selection-start-line="375" selection-start-column="0" selection-end-line="375" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c2s.py" />
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh.top">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/src/img_to_crop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/original/openi.mesh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chestx/MeSH/src/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="0" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="43" />
+          <folding>
+            <element signature="e#3494#3551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imcnn/train256.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="90" column="98" selection-start-line="90" selection-start-column="91" selection-end-line="90" selection-end-column="98" />
+          <folding>
+            <element signature="n#read_num_lines#0" expanded="false" />
+            <element signature="e#2363#2442#0" expanded="false" />
+            <element signature="e#2446#2762#0" expanded="false" />
+            <element signature="e#11237#11608#1" expanded="false" />
+            <element signature="n#test#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Development/isArticle/svmTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+          <folding>
+            <element signature="e#1163#1197#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
